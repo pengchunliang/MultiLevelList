@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ToolbarTheme" parent="@style/Widget.AppCompat.PopupMenu.Overflow">
+        <item name="actionMenuTextColor">@color/white</item>
+        <item name="android:dropDownVerticalOffset">5dp</item>
+        <item name="android:dropDownHorizontalOffset">0dp</item>
+        <item name="android:textColorHint">@color/white</item>
+    </style>
+
+    <style name="textArrowStyle">
+
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">right</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:drawableRight">@mipmap/icon_arrow_down</item>
+
+    </style>
+
+</resources>
