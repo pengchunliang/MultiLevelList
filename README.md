@@ -4,4 +4,4 @@
 
 ![MultiLevelList](/screen.png)
 
-![MultiLevelList](/screen.mp4)
+![MultiLevelList](/screen.gif)
